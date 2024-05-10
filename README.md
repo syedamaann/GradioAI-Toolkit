@@ -62,4 +62,4 @@ Quickly generates concise summaries from extensive texts.
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
 
-Explore and enjoy the capabilities of AI with these tools, designed to enrich your understanding and application of artificial intelligence!
+I hope you find these applications useful and inspiring as you explore the capabilities of AI in various domains. Enjoy experimenting and learning with the tools here!
