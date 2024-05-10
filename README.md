@@ -30,7 +30,41 @@ This repository contains a collection of innovative web applications focusing on
 - **Key Technologies**: distilbart-cnn-12-6, Gradio
 
 ## Getting Started
-To start using these applications, clone the repository and follow the individual setup instructions for each project. Ensure you have Python installed and any necessary API keys configured as per each project's requirements.
+
+To begin using the interactive AI tools in this repository, follow these streamlined steps:
+
+### Prerequisites
+- **Python**: Ensure Python is installed on your system. Download from [python.org](https://www.python.org/downloads/).
+- **API Keys**: Obtain necessary API keys for projects that require external service interactions.
+
+### Cloning the Repository
+Clone the repository to your local machine using:
+```
+git clone [repository-url]
+```
+Replace `[repository-url]` with the actual URL of the repository.
+
+### Setting Up Projects
+Navigate to each project's directory and install dependencies:
+```
+cd [project-directory]
+pip install -r requirements.txt
+```
+
+### Configuring API Keys
+For projects requiring API keys, create a `.env` file in the project directory and add your keys:
+```
+API_KEY='YOUR_API_KEY_HERE'
+```
+
+### Running the Applications
+Launch the application using:
+```
+python app.py
+```
+Access the application via a web browser, typically at `localhost` with a specified port number.
+
+Follow these steps to set up and start exploring the capabilities of each AI tool in this repo. 
 
 ## Contribution
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
